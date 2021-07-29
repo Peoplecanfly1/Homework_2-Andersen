@@ -4,3 +4,7 @@ import delay from './Task3.js'
 import getUserData from './Task4.js'
 import getAllDataSequence from "./Task5.js";
 import getResolvedPromise from './Task6.js';
+import fooAsync from './Task7.js';
+import getUsersAsync from './Task8.js';
+import asyncBarFoo from './Task9.js';
+import classAsync from './Task10.js'
